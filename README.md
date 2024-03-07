@@ -7,7 +7,7 @@ VS402846: The number of picklists in the collection has reached the limit of 204
 
 ![image](https://github.com/renaudmontesMSFT/ADO-picklistfields-list/assets/100614151/5bbd4748-6adb-420d-8271-e4ffc7f7cea2)
 
-Chances are ff you work in an organization with many projects or fields, you might eventually face this problem, but where to start?
+Chances are if you work in an organization with many projects or fields, you might eventually face this problem, but where to start?
 Don't despair, follow these easy steps:
 # Step 1
 Clone Dan's GitHub repo and compile the code to get the utility exe file, this will produce the input for this notebook
