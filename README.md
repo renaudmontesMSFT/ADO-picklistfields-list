@@ -14,8 +14,11 @@ Clone Dan's GitHub repo and compile the code to get the utility exe file, this w
 https://github.com/danhellem/azure-devops-admin-cli 
 
 adoadmin.exe /org:{myorg} /pat:mypat /action:allpicklists >rawoutput.txt
+
 Notes:
+
 1- Create a new PAT (Personal Access Token) in ADO
+
 2- The > in the command prompt indicates to produce a file rather than display results on the screen
 
 # Step 2:
