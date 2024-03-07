@@ -3,7 +3,7 @@ This utility helps to extract the unique Azure DevOps fields that have picklist 
 It gives the names of the readable fields only from another utility developed by Dan Hellem that outputs guid and field names.
 
 Have you faced the dreaded error:
-VS402846: The number of picklists in the collection has reached the limit of 2048.
+VS402846: The number of picklists in the collection has reached the limit of 2048.?
 
 ![image](https://github.com/renaudmontesMSFT/ADO-picklistfields-list/assets/100614151/5bbd4748-6adb-420d-8271-e4ffc7f7cea2)
 
