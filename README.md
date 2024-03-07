@@ -5,8 +5,6 @@ It gives the names of the readable fields only from another utility developed by
 Have you ever faced the dreaded error:
 VS402846: The number of picklists in the collection has reached the limit of 2048.?
 
-![image](https://github.com/renaudmontesMSFT/ADO-picklistfields-list/assets/100614151/5bbd4748-6adb-420d-8271-e4ffc7f7cea2)
-
 Chances are if you work in an organization with many projects or fields, you might eventually face this problem, but where to start?
 Don't despair, follow these easy steps:
 # Step 1
